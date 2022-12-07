@@ -1,8 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Ryan Cordeiro!</strong>💜
 
-> Olá, meu nome é Ryan, estou começando minha carreira como desenvolvedor, esse espaço é destinado a apresentar meu trabalho, principalmente como desenvolvedor Back-and 
+> Olá, meu nome é Ryan, estou começando minha carreira como desenvolvedor, esse espaço é destinado a apresentar meu trabalho, principalmente como desenvolvedor Back-end 
 
-🔭 Atualmente estou trabalhando como freelancer, ja desenvolvi uma aplicação de login e cadastro de usuarios e admins ultilizando banco de dados MySql e PHP, estou estudando no momento aplicações com JavaScript e Node.js.
 
 💬 Alguma pergunta ?, entre em contato para melhor esclarecer duvidas
 
