@@ -1,8 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Ryan Cordeiro!</strong>💜
 
-> Olá, meu nome é Ryan, estou começando minha carreira como desenvolvedor, esse espaço é destinado a apresentar meu trabalho, principalmente como desenvolvedor Back-end 
+> Olá, meu nome é Ryan, esse espaço é destinado a apresentar meu trabalho, principalmente como desenvolvedor Back-end 
 
-🔭 Atualmente estou trabalhando como freelancer, ja desenvolvi uma aplicação de login e cadastro de usuarios e admins ultilizando banco de dados MySql e PHP, estou estudando no momento aplicações com JavaScript e Node.js.
+🔭 No momento, estou trabalhando como freelancer e já desenvolvi diversas aplicações de login e cadastro de usuários e administradores utilizando banco de dados MySQL e PHP. Estou dedicando parte do meu tempo para estudar aplicações com JavaScript e Node.js.
+
+Além disso, estou animado para compartilhar meu mais recente projeto, que consiste em uma plataforma de agendamento. Este projeto inclui funcionalidades como Agendamento, Clientes, Serviços disponíveis, Imprimir PDF e Configurações, bem como telas para o cliente, como Agendamento e Configurações.
 
 💬 Alguma pergunta ? entre em contato para esclarecer melhor sua duvida
 
